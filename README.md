@@ -1,4 +1,4 @@
-# Instalar e executar
+# Instalar e executar:
 
 Para instalar dependências:
 
